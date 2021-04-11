@@ -8,5 +8,5 @@ body{
     display: grid;
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: repeat(10, 1fr);
-    height: 100vh;
+    height: 100vh; /*Se coloco alto para usar todo el espacio en pantalla*/
 }
